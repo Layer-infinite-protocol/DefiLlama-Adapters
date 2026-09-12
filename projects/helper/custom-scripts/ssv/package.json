@@ -12,6 +12,6 @@
   "packageManager": "pnpm@10.23.0",
   "dependencies": {
     "stream": "^0.0.3",
-    "stream-json": "^1.9.1"
+    "stream-json": "^3.5.0"
   }
 }
